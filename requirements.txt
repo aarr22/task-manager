@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
 sqlmodel
+psycopg[binary]
 pydantic-settings
 pwdlib[argon2]
 python-jose[cryptography]
